@@ -1,0 +1,28 @@
+# Ignorar archivos de entorno
+.env
+API_KEY.env
+
+# Ignorar archivos de configuración de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar dependencias de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar archivos de logs y temporales
+*.log
+*.tmp
+
+# Ignorar archivos de entorno virtual
+venv/
+.env/
+*.venv/
+
+# Ignorar datos sensibles y credenciales
+*.pem
+*.crt
+*.key
+
+# Ignorar archivos de sistema de Mac y Windows
+.DS_Store
+Thumbs.db
