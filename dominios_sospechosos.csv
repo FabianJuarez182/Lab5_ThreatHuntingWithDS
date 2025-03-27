@@ -1,0 +1,26 @@
+dns.rrname,domain_tld,dga_classification,tld,is_suspicious
+safebrowsing.clients.google.com.home,com.home,0,home,1
+wpad.home,wpad.home,0,home,1
+192.168.22.110phpmyadmin,22.110phpmyadmin,1,110phpmyadmin,1
+secure.informaction.com.localdomain,com.localdomain,0,localdomain,1
+safebrowsing.clients.google.com.localdomain,com.localdomain,0,localdomain,1
+192.168.22.110phpmyadmin.localdomain,110phpmyadmin.localdomain,1,localdomain,1
+www.theanime.cn. ,cn. ,1, ,1
+safebrowsing.clients.google.com.hackerlabs.vpn,hackerlabs.vpn,0,vpn,1
+secure.informaction.com.home,com.home,1,home,1
+secure.informaction.com.hackerlabs.vpn,hackerlabs.vpn,1,vpn,1
+wpad,wpad,1,wpad,1
+safebrowsing.clients.google.com.lan,com.lan,1,lan,1
+"""192.168.206.56""","206.56""",0,"56""",1
+192.168.26-27.0,26-27.0,0,0,1
+FL,FL,1,FL,1
+saruman,saruman,1,saruman,1
+192.168.21.1201,21.1201,1,1201,1
+,,0,,1
+whitecell.localdomain,whitecell.localdomain,1,localdomain,1
+1922.168.22.254,22.254,1,254,1
+1922.168.22.254.home,254.home,1,home,1
+192.168.21-28.0,21-28.0,1,0,1
+192.168.21-28.0.home,0.home,1,home,1
+192.168.22.201:,22.201:,1,201:,1
+ntp.ubuntu.com.localdomain,com.localdomain,0,localdomain,1
